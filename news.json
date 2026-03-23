@@ -2,57 +2,75 @@
   "articles": [
     {
       "id": 1,
-      "title": "Uusi tekoälyjärjestelmä mullistaa terveydenhuollon",
-      "description": "Suomalaistutkijat ovat kehittäneet tekoälypohjaisen järjestelmän, joka pystyy diagnosoimaan sairauksia aikaisempaa tarkemmin ja nopeammin.",
-      "author": "Matti Virtanen",
+      "title": "Uusi tekoälyjärjestelmä mullistaa maailmalla",
+      "description": "Uusi tekoälyjärjestelmä pystyy nyt neuvomaan kuinka rakentaa talo, näin ei rakennusinsinöörejä enää tarvita",
+      "author": "Matti Meikäläinen",
       "publishedAt": "2026-03-23",
       "imageUrl": "https://picsum.photos/seed/news1/600/400",
       "category": "Teknologia"
     },
     {
       "id": 2,
-      "title": "Helsinki rakentaa Euroopan suurimman pyöräilyverkoston",
-      "description": "Helsingin kaupunki on ilmoittanut kunnianhimoisesta suunnitelmasta laajentaa pyöräilyinfrastruktuuria 500 kilometrillä vuoteen 2028 mennessä.",
-      "author": "Liisa Mäkinen",
-      "publishedAt": "2026-03-22",
+      "title": "Suomen suurin yritys siirtyy täysin etätöihin",
+      "description": "VaJaa Company ilmoitti tänään siirtävänsä kaikki 3 000 työntekijäänsä pysyvään etätyömalliin. Toimitusjohtajan mukaan toimistotilat muutetaan laskettelukeskukseksi.",
+      "author": "Liisa Virtanen",
+      "publishedAt": "2026-03-21",
       "imageUrl": "https://picsum.photos/seed/news2/600/400",
-      "category": "Kaupunki"
+      "category": "Yritys"
     },
     {
       "id": 3,
-      "title": "Suomen talous kasvaa odotettua nopeammin",
-      "description": "Tilastokeskuksen tuoreiden tietojen mukaan Suomen bruttokansantuote kasvoi ensimmäisellä kvartaalilla 3,2 prosenttia, ylittäen asiantuntijoiden ennusteet.",
+      "title": "Robotti korvaa kahvilajonoissa odottamisen",
+      "description": "Helsinkiläinen startup kehitti robotin joka jonottaa kahvilassa puolestasi ja tuo tilauksen suoraan työpöydällesi. Palvelu lanseerataan ensi kuussa kymmenessä kaupungissa.",
       "author": "Jukka Korhonen",
-      "publishedAt": "2026-03-21",
+      "publishedAt": "2026-03-20",
       "imageUrl": "https://picsum.photos/seed/news3/600/400",
-      "category": "Talous"
+      "category": "Teknologia"
     },
     {
       "id": 4,
-      "title": "Rovaniemellä ennätysmäärä turisteja tänä talvena",
-      "description": "Lapin matkailutilastot osoittavat, että Rovaniemellä vieraili tänä talvena yli 600 000 turistia, mikä on uusi ennätys kaupungin historiassa.",
+      "title": "Suomi voitti ohjelmointikisojen maailmanmestaruuden",
+      "description": "Suomalaiset opiskelijat veivät kultamitalin kansainvälisissä ohjelmointikilpailuissa Tokiossa. Joukkue ratkaisi 12 tehtävää alle kahdessa tunnissa, mikä on uusi maailmanennätys.",
       "author": "Anna Leppänen",
-      "publishedAt": "2026-03-20",
+      "publishedAt": "2026-03-18",
       "imageUrl": "https://picsum.photos/seed/news4/600/400",
-      "category": "Matkailu"
+      "category": "Urheilu"
     },
     {
       "id": 5,
-      "title": "Suomalaispeliyhtiö julkaisee odotetuimman pelin vuosiin",
-      "description": "Helsinkiläinen pelistudio Frosty Games on julkistanut uuden mobiilipelinsä, jota on ladattu jo yli miljoona kertaa ensimmäisen vuorokauden aikana.",
+      "title": "Sähköauto latautuu nyt täyteen kolmessa minuutissa",
+      "description": "Tamperelainen energiayhtiö esitteli mullistavan lataustekniikan joka täyttää sähköauton akun kolmessa minuutissa. Tekniikka tulee markkinoille ensi vuonna.",
       "author": "Mikko Heikkinen",
-      "publishedAt": "2026-03-19",
+      "publishedAt": "2026-03-16",
       "imageUrl": "https://picsum.photos/seed/news5/600/400",
-      "category": "Pelit"
+      "category": "Energia"
     },
     {
       "id": 6,
-      "title": "Ilmastonmuutos näkyy Suomen luonnossa selvästi",
-      "description": "Luonnontieteellisen keskusmuseon tutkimus osoittaa, että kevät alkaa Suomessa keskimäärin kaksi viikkoa aiemmin kuin 30 vuotta sitten.",
+      "title": "Palkansaajien keskipalkka nousi 8 prosenttia",
+      "description": "Tilastokeskuksen tuoreen raportin mukaan suomalaisten keskipalkka on noussut merkittävästi. Eniten palkkoja korotettiin IT-alalla ja terveydenhuollossa.",
       "author": "Sari Nieminen",
-      "publishedAt": "2026-03-18",
+      "publishedAt": "2026-03-14",
       "imageUrl": "https://picsum.photos/seed/news6/600/400",
-      "category": "Ympäristö"
+      "category": "Talous"
+    },
+    {
+      "id": 7,
+      "title": "Rovaniemelle rakennetaan Euroopan korkein pilvenpiirtäjä",
+      "description": "Arkkitehtitoimisto paljasti suunnitelmat 600-metrisestä tornista Rovaniemen keskustaan. Rakennuksessa tulee olemaan hotelli, toimistoja ja ylin kerros on varattu poronlihalle.",
+      "author": "Timo Mäkinen",
+      "publishedAt": "2026-03-12",
+      "imageUrl": "https://picsum.photos/seed/news7/600/400",
+      "category": "Rakentaminen"
+    },
+    {
+      "id": 8,
+      "title": "Suomalainen sovellus opettaa koirille koodaamisen",
+      "description": "Oululainen kehittäjä julkaisi sovelluksen joka väittää opettavansa koirille Python-ohjelmointia. Sovellus on jo ladattu yli 200 000 kertaa ja sillä on viisi tähteä.",
+      "author": "Paula Koskinen",
+      "publishedAt": "2026-03-10",
+      "imageUrl": "https://picsum.photos/seed/news8/600/400",
+      "category": "Teknologia"
     }
   ]
 }
