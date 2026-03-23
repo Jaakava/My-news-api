@@ -6,70 +6,62 @@
       "description": "Uusi tekoälyjärjestelmä pystyy nyt neuvomaan kuinka rakentaa talo, näin ei rakennusinsinöörejä enää tarvita",
       "author": "Matti Meikäläinen",
       "publishedAt": "2026-03-23",
-      "imageUrl": "https://picsum.photos/seed/news1/600/400",
       "category": "Teknologia"
     },
     {
       "id": 2,
       "title": "Suomen suurin yritys siirtyy täysin etätöihin",
       "description": "VaJaa Company ilmoitti tänään siirtävänsä kaikki 3 000 työntekijäänsä pysyvään etätyömalliin. Toimitusjohtajan mukaan toimistotilat muutetaan laskettelukeskukseksi.",
-      "author": "Liisa Virtanen",
-      "publishedAt": "2026-03-21",
-      "imageUrl": "https://picsum.photos/seed/news2/600/400",
+      "author": "Maija Meikäläinen",
+      "publishedAt": "2026-03-21",,
       "category": "Yritys"
     },
     {
       "id": 3,
       "title": "Robotti korvaa kahvilajonoissa odottamisen",
       "description": "Helsinkiläinen startup kehitti robotin joka jonottaa kahvilassa puolestasi ja tuo tilauksen suoraan työpöydällesi. Palvelu lanseerataan ensi kuussa kymmenessä kaupungissa.",
-      "author": "Jukka Korhonen",
+      "author": "Ken Guru",
       "publishedAt": "2026-03-20",
-      "imageUrl": "https://picsum.photos/seed/news3/600/400",
       "category": "Teknologia"
     },
     {
       "id": 4,
       "title": "Suomi voitti ohjelmointikisojen maailmanmestaruuden",
       "description": "Suomalaiset opiskelijat veivät kultamitalin kansainvälisissä ohjelmointikilpailuissa Tokiossa. Joukkue ratkaisi 12 tehtävää alle kahdessa tunnissa, mikä on uusi maailmanennätys.",
-      "author": "Anna Leppänen",
+      "author": "Tino Saurus",
       "publishedAt": "2026-03-18",
-      "imageUrl": "https://picsum.photos/seed/news4/600/400",
       "category": "Urheilu"
     },
     {
       "id": 5,
       "title": "Sähköauto latautuu nyt täyteen kolmessa minuutissa",
       "description": "Tamperelainen energiayhtiö esitteli mullistavan lataustekniikan joka täyttää sähköauton akun kolmessa minuutissa. Tekniikka tulee markkinoille ensi vuonna.",
-      "author": "Mikko Heikkinen",
+      "author": "Maija Mehiläinen",
       "publishedAt": "2026-03-16",
-      "imageUrl": "https://picsum.photos/seed/news5/600/400",
       "category": "Energia"
     },
     {
       "id": 6,
       "title": "Palkansaajien keskipalkka nousi 8 prosenttia",
       "description": "Tilastokeskuksen tuoreen raportin mukaan suomalaisten keskipalkka on noussut merkittävästi. Eniten palkkoja korotettiin IT-alalla ja terveydenhuollossa.",
-      "author": "Sari Nieminen",
+      "author": "Tiina Taloustoimittaja",
       "publishedAt": "2026-03-14",
-      "imageUrl": "https://picsum.photos/seed/news6/600/400",
       "category": "Talous"
     },
     {
       "id": 7,
       "title": "Rovaniemelle rakennetaan Euroopan korkein pilvenpiirtäjä",
       "description": "Arkkitehtitoimisto paljasti suunnitelmat 600-metrisestä tornista Rovaniemen keskustaan. Rakennuksessa tulee olemaan hotelli, toimistoja ja ylin kerros on varattu poronlihalle.",
-      "author": "Timo Mäkinen",
+      "author": "Rami Raksamies",
       "publishedAt": "2026-03-12",
-      "imageUrl": "https://picsum.photos/seed/news7/600/400",
       "category": "Rakentaminen"
     },
     {
       "id": 8,
       "title": "Suomalainen sovellus opettaa koirille koodaamisen",
       "description": "Oululainen kehittäjä julkaisi sovelluksen joka väittää opettavansa koirille Python-ohjelmointia. Sovellus on jo ladattu yli 200 000 kertaa ja sillä on viisi tähteä.",
-      "author": "Paula Koskinen",
+      "author": "Ilma IT-tuki",
       "publishedAt": "2026-03-10",
-      "imageUrl": "https://picsum.photos/seed/news8/600/400",
       "category": "Teknologia"
     }
   ]
